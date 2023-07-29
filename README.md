@@ -1,0 +1,2 @@
+# bash
+Bash kodlama örnekleri?
